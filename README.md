@@ -1,4 +1,4 @@
-<img src="https://github.com/hecalderong/laravel-docker/blob/main/image/dockerizando-laravel.webp" alt="Dockerizando Laravel" width="100%">
+<img src="https://github.com/hecalderong/laravel-docker/blob/main/images/dockerizando-laravel.webp" alt="Dockerizando Laravel" width="100%">
 
 # Laravel Docker Development Environment
 
